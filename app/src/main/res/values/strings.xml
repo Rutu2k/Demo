@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" ><center>Find Best Deposits</center></string>
+    <string name="fixed_date_every_month">Fixed Date every Month</string>
+    <string name="amount">Amount*</string>
+    <string name="rs_10000">Rs.10000</string>
+    <string name="when_will_you_deposit">When will you deposit*</string>
+    <string name="once_at_a_start">Once at a Start</string>
+    <string name="as_and_when_i_have_money">As and when I have money</string>
+    <string name="day">Day</string>
+    <string name="reinvest_interest">Reinvest Interest?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="for_how_long_will_you_invest">For how long will you invest?</string>
+    <string name="search_now">Search Now</string>
+    <string name="sen_cit">Are you a senior citizen?</string>
+</resources>
