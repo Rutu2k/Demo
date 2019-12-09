@@ -1,0 +1,25 @@
+<resources>
+    <string name="link"><a href="https://www.google.com"><u>Know More</u></a></string>
+    <string name="link1"><a href="https://www.google.com"><u>Know More</u></a></string>
+    <string name="link2"><a href="https://www.google.com"><u>Know More</u></a></string>
+    <string name="app_name">Search Results</string>
+    <string name="find_best_deposits">Find Best Deposits</string>
+
+
+    <string name="total_amount">Total Amount</string>
+
+    <string name="_8_6">8.6%</string>
+    <string name="rs_12_100">Rs.12,100</string>
+    <string name="_8_1">8.1%</string>
+    <string name="rs_11_400">Rs.11,400</string>
+    <string name="_9">9%</string>
+    <string name="interest_rate">Interest Rate</string>
+
+    <string name="rs_12_900">Rs.12,900</string>
+
+
+    <string name="open_now">Open Now</string>
+    <string name="todo">TODO</string>
+
+</resources>
+
